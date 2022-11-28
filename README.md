@@ -2,7 +2,7 @@
  
 IMPORTANT To view the readme with proper spacing, please click on it in the code and then read it through the source blob option or raw.
 
-REQUIREMENTS Everything seems to be fine on the code end however I am getting a recurring fatal error on my Mac when running the api for a login on my keychain that doesn't exist! I do not have another pc unfortunately and I'm unsure what to do aboutt this : (
+REQUIREMENTS Everything seems to be fine on the code end however I am getting a recurring fatal error on my Mac when running the api for a login on my keychain that doesn't exist! I do not have another pc unfortunately and I'm unsure what to do about this : (
 
 PURPOSE OF THIS API To track statistics of teams and players in La Liga for the 2023 season and find out information about each table!
 
